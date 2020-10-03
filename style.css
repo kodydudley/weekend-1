@@ -1,0 +1,41 @@
+/* Lakers Colors */
+.purple{
+  background-color: #552583;
+}
+
+.white{
+  color: white;
+}
+
+.yellow{
+  background-color: #FDB927;
+}
+
+.hover:hover{
+  opacity: .4;
+  color: black;
+} */
+
+text1{
+  visibility: hidden;
+} */
+
+.text2:hover{
+  visibility: visible;
+  color: black;
+}
+
+.kostas{
+  background-image: url(/kostas.png);
+}
+
+.hvrbox_background {
+    width: 400px;
+    height: 250px;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+
+
